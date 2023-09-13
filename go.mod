@@ -1,0 +1,3 @@
+module goProj
+
+go 1.21.0
